@@ -27,11 +27,6 @@
 
 # # STEP #2: IMPORTING DATA
 
-# In[1]:
-
-
-
-
 # In[2]:
 
 
