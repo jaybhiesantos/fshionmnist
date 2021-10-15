@@ -30,7 +30,6 @@
 # In[1]:
 
 
-get_ipython().system('pip install seaborn')
 
 
 # In[2]:
